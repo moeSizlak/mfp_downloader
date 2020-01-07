@@ -1,6 +1,6 @@
 # mfp_downloader
 
-mfp_downloader is a Ruby script for connecting to the undocumented MyFitnessPal API, plundering some data and whatnot, and creating a csv that contains a daily sum of each nutrient
+mfp_downloader is a Ruby script for connecting to the undocumented MyFitnessPal API, plundering some data and whatnot, and creating a [csv](../blob/master/food_data.csv) that contains a daily sum of each nutrient
 
 ## Installation
 
